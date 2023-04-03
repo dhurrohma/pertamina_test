@@ -1,3 +1,3 @@
-# pertamina_test
-Menggunakan bahasa pemrograman java.\n
+# Dhur Rohma
+Menggunakan bahasa pemrograman java.
 File coding jawaban ada di src.
